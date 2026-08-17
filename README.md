@@ -28,3 +28,7 @@ cp -r claude-plugin/model-tiering ~/.claude/skills/
 
 - Telegram: [@saidqodirxonuz](https://t.me/saidqodirxonuz)
 - Moliyaviy qo'llab-quvvatlash (donate): [saadahbooks.uz/donate](https://saadahbooks.uz/donate)
+
+## Litsenziya
+
+[MIT](LICENSE)
